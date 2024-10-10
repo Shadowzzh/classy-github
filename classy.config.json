@@ -5,7 +5,7 @@
             "visible": true,
             "showCount": 6
         },
-        "cover": "https://picsum.photos/1200/760",
+        "cover": "https://raw.githubusercontent.com/Shadowzzh/classy-github/refs/heads/main/apps/classy/public/cover.webp?sanitize=true",
         "showFollowers": true,
         "showFollowing": true
     },
