@@ -1,24 +1,24 @@
 {
-  "owner": "Dnevend",
+  "owner": "Shadowzzh",
   "theme": "mac",
   "language": "en",
   "profile": {
-    "cover": "/images/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/Shadowzzh/classy-github/refs/heads/main/apps/classy/public/cover.webp?sanitize=true",
     "cardUrl": null,
     "contrib": {
       "visible": true
     },
     "repos": {
       "visible": true,
-      "showCount": 4
+      "showCount": 6
     },
     "gists": {
       "visible": true,
-      "showCount": 4
+      "showCount": 6
     }
   },
   "gists": {
-    "prefix": "classy",
+    "prefix": "Classy",
     "split": ".",
     "default": null,
     "type": [
@@ -36,24 +36,20 @@
       "href": "https://github.com/Dnevend/classy-github"
     },
     {
-      "title": "HomePage",
-      "href": "https://dnevend.site"
+      "title": "Docs",
+      "href": "https://docs.classygit.me"
     }
   ],
   "nav": {
     "extra": []
   },
   "now": {
-    "books": [
-      "《江湖边》《北京法源寺》《夜晚的潜水艇》"
-    ],
-    "music": [
-      "秘密後院、NeilYoung"
-    ],
+    "books": [],
+    "music": [],
     "watching": []
   },
   "guestbook": {
-    "gistId": "e2e89074d0439b74222911fc6449fbb1"
+    "gistId": null
   },
   "webring": {
     "enabled": true
